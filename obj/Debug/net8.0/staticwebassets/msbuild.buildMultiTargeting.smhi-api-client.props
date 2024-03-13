@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/smhi-api-client.props" />
+</Project>

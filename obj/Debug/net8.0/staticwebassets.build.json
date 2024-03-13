@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XarqXr+AGKoQogGiKVLDhPXrW8q4y95llUEo4GhzZ0k=",
+  "Source": "smhi-api-client",
+  "BasePath": "_content/smhi-api-client",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

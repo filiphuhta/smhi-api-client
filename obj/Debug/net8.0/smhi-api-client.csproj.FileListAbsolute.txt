@@ -1,0 +1,67 @@
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/bin/Debug/net8.0/appsettings.Development.json
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/bin/Debug/net8.0/appsettings.json
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/bin/Debug/net8.0/smhi-api-client
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/bin/Debug/net8.0/smhi-api-client.deps.json
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/bin/Debug/net8.0/smhi-api-client.runtimeconfig.json
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/bin/Debug/net8.0/smhi-api-client.dll
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/bin/Debug/net8.0/smhi-api-client.pdb
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/obj/Debug/net8.0/smhi-api-client.csproj.AssemblyReference.cache
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/obj/Debug/net8.0/smhi-api-client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/obj/Debug/net8.0/smhi-api-client.AssemblyInfoInputs.cache
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/obj/Debug/net8.0/smhi-api-client.AssemblyInfo.cs
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/obj/Debug/net8.0/smhi-api-client.csproj.CoreCompileInputs.cache
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/obj/Debug/net8.0/smhi-api-client.MvcApplicationPartsAssemblyInfo.cs
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/obj/Debug/net8.0/smhi-api-client.MvcApplicationPartsAssemblyInfo.cache
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/obj/Debug/net8.0/smhi-api-client.sourcelink.json
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/obj/Debug/net8.0/staticwebassets.build.json
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/obj/Debug/net8.0/staticwebassets.development.json
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/obj/Debug/net8.0/staticwebassets/msbuild.smhi-api-client.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/obj/Debug/net8.0/staticwebassets/msbuild.build.smhi-api-client.props
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.smhi-api-client.props
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.smhi-api-client.props
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/obj/Debug/net8.0/scopedcss/bundle/smhi-api-client.styles.css
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/obj/Debug/net8.0/smhi-api.97D7EFD7.Up2Date
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/obj/Debug/net8.0/smhi-api-client.dll
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/obj/Debug/net8.0/refint/smhi-api-client.dll
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/obj/Debug/net8.0/smhi-api-client.pdb
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/obj/Debug/net8.0/smhi-api-client.genruntimeconfig.cache
+/Users/filiphuhta/Documents/Projects/Egna projekt/Net Core/smhi-api-client/obj/Debug/net8.0/ref/smhi-api-client.dll
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/bin/Debug/net8.0/appsettings.Development.json
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/bin/Debug/net8.0/appsettings.json
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/bin/Debug/net8.0/smhi-api-client
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/bin/Debug/net8.0/smhi-api-client.deps.json
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/bin/Debug/net8.0/smhi-api-client.runtimeconfig.json
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/bin/Debug/net8.0/smhi-api-client.dll
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/bin/Debug/net8.0/smhi-api-client.pdb
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/obj/Debug/net8.0/smhi-api-client.csproj.AssemblyReference.cache
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/obj/Debug/net8.0/smhi-api-client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/obj/Debug/net8.0/smhi-api-client.AssemblyInfoInputs.cache
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/obj/Debug/net8.0/smhi-api-client.AssemblyInfo.cs
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/obj/Debug/net8.0/smhi-api-client.csproj.CoreCompileInputs.cache
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/obj/Debug/net8.0/smhi-api-client.MvcApplicationPartsAssemblyInfo.cs
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/obj/Debug/net8.0/smhi-api-client.MvcApplicationPartsAssemblyInfo.cache
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/obj/Debug/net8.0/staticwebassets.build.json
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/obj/Debug/net8.0/staticwebassets.development.json
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/obj/Debug/net8.0/staticwebassets/msbuild.smhi-api-client.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/obj/Debug/net8.0/staticwebassets/msbuild.build.smhi-api-client.props
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.smhi-api-client.props
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.smhi-api-client.props
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/obj/Debug/net8.0/scopedcss/bundle/smhi-api-client.styles.css
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/obj/Debug/net8.0/smhi-api.97D7EFD7.Up2Date
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/obj/Debug/net8.0/smhi-api-client.dll
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/obj/Debug/net8.0/refint/smhi-api-client.dll
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/obj/Debug/net8.0/smhi-api-client.pdb
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/obj/Debug/net8.0/smhi-api-client.genruntimeconfig.cache
+/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/obj/Debug/net8.0/ref/smhi-api-client.dll

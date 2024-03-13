@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ibj381D8IgmdME86DsYBtGRfb4AfRk2282oht4ye/aR3/uK1mzYXsy0ec5uHyx0L8eBJ8UtrCxgK8Kx6fcjb0w==",
+  "success": true,
+  "projectFilePath": "/Users/filiphuhta/Documents/Projects/Egna projekt/smhi-api-client/smhi-api-client.csproj",
+  "expectedPackageFiles": [
+    "/Users/filiphuhta/.nuget/packages/microsoft.aspnetcore.openapi/8.0.3/microsoft.aspnetcore.openapi.8.0.3.nupkg.sha512",
+    "/Users/filiphuhta/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/filiphuhta/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/filiphuhta/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/filiphuhta/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/filiphuhta/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/filiphuhta/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
